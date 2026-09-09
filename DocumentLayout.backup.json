@@ -1,0 +1,2391 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\VP_PBE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\resetuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\resetuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\questionbankform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\questionbankform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|c:\\users\\user\\source\\repos\\vp_pbe\\vp_pbe\\lecture\\questionbankform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\questionbankform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\downloadpastyearpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\downloadpastyearpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\checksupervisorassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\checksupervisorassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\studentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\studentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\checksubmissiondeadline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\checksubmissiondeadline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\checksubmissiondeadline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\checksubmissiondeadline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\lecturematerials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\lecturematerials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\lecturematerials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\lecturematerials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\downloadpastyearpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\downloadpastyearpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\checksubmissiondeadline.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\checksubmissiondeadline.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\fypprojectapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\fypprojectapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\searchfyptitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\searchfyptitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\searchfyptitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\searchfyptitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\accessreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\accessreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\accessreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\accessreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\systemlogsandaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\systemlogsandaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\systemlogsandaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\systemlogsandaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\resetuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\resetuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\exportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\exportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\exportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\exportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\fypprojectapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\fypprojectapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\categorizeresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\categorizeresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\categorizeresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\categorizeresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\assigncredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\assigncredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\assigncredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\assigncredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\fypmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\fypmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\fypmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\fypmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\accessreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\accessreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\gradingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\gradingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\gradingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\gradingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\supervisionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\supervisionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\supervisionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\supervisionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\resourcemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\resourcemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\resourcemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\resourcemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\pastquestionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\pastquestionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\lecturerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\lecturerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\pastquestionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\pastquestionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\lecturerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\lecturerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\checksupervisorassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\checksupervisorassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\fypmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\fypmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\lecturematerials.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\lecturematerials.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\submitproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\submitproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\submitproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\submitproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\uploadprojectdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\uploadprojectdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|c:\\users\\user\\source\\repos\\vp_pbe\\vp_pbe\\student\\uploadprojectdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\uploadprojectdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\databaseconnection\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\databaseconnection\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\vp_pbe\\vp_pbe\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vp_pbe\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\Register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\services\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\services\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\viewprojectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\viewprojectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\updatepersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\updatepersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\viewprojectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\viewprojectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\supervisionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\supervisionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\resourcemanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\resourcemanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\questionbankform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\questionbankform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\pastquestionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\pastquestionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\lecturerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\lecturerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\gradingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\gradingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\admindashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\admindashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\systemlogsandaudit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\systemlogsandaudit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\resetuserpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\resetuserpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\manageusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\manageusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\fypprojectapproval.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\fypprojectapproval.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\exportdata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\exportdata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\categorizeresources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\categorizeresources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\assigncredential.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\assigncredential.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\assigncredential.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\assigncredential.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\viewprojectstatus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\viewprojectstatus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\uploadprojectdocument.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\uploadprojectdocument.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\updatepersonalinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\updatepersonalinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\updatepersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\updatepersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\submitproposal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\submitproposal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\studentrepository.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\studentrepository.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\searchfyptitle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\searchfyptitle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\searchfyptitle.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\searchfyptitle.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\downloadpastyearpaper.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\downloadpastyearpaper.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\checksupervisorassignment.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\checksupervisorassignment.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\checksupervisorassignment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\checksupervisorassignment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\lecture\\gradingform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\lecture\\gradingform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\resetuserpassword.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\resetuserpassword.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\admin\\manageusers.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\admin\\manageusers.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\student\\lecturematerials.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\student\\lecturematerials.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|C:\\Users\\USER\\source\\repos\\VP_PBE\\vp_pbe\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{642EA946-54F2-41D5-A8BD-3D0F23D53486}|VP_PBE\\VP_PBE.csproj|solutionrelative:vp_pbe\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\vp_pbe\\vp_pbe\\submitproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vp_pbe\\submitproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\vp_pbe\\vp_pbe\\uploadprojectdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vp_pbe\\uploadprojectdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UploadProjectDocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\UploadProjectDocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\vp_pbe\\vp_pbe\\searchfyptitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vp_pbe\\searchfyptitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\vp_pbe\\vp_pbe\\checksubmissiondeadline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vp_pbe\\checksubmissiondeadline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\vp_pbe\\vp_pbe\\viewprojectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vp_pbe\\viewprojectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\vp_pbe\\vp_pbe\\checksupervisorassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vp_pbe\\checksupervisorassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\vp_pbe\\vp_pbe\\updatepersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vp_pbe\\updatepersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\vp_pbe\\vp_pbe\\downloadpastyearpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vp_pbe\\downloadpastyearpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\vp_pbe\\vp_pbe\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vp_pbe\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\vp_pbe\\vp_pbe\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vp_pbe\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentDashboard.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\StudentDashboard.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\StudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentDashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\StudentDashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\Login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UploadProjectDocument.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\UploadProjectDocument.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SearchFypTitle.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\SearchFypTitle.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SearchFypTitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\SearchFypTitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SubmitProposal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\SubmitProposal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SubmitProposal.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\SubmitProposal.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SubmitProposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\SubmitProposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSupervisorAssignment.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\CheckSupervisorAssignment.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSupervisorAssignment.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\CheckSupervisorAssignment.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSupervisorAssignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\CheckSupervisorAssignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\DownloadPastYearPaper.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\DownloadPastYearPaper.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\DownloadPastYearPaper.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\DownloadPastYearPaper.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\DownloadPastYearPaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\DownloadPastYearPaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentRepository.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\StudentRepository.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentRepository.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\StudentRepository.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UpdatePersonalInfo.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\UpdatePersonalInfo.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UpdatePersonalInfo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\UpdatePersonalInfo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UpdatePersonalInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\UpdatePersonalInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSubmissionDeadline.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\CheckSubmissionDeadline.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\ViewProjectStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\ViewProjectStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\ViewProjectStatus.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\ViewProjectStatus.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSubmissionDeadline.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\CheckSubmissionDeadline.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSubmissionDeadline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\CheckSubmissionDeadline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\ViewProjectStatus.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VP_PBE\\ViewProjectStatus.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResetUSerPassword.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ResetUSerPassword.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\ResetUSerPassword.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ResetUSerPassword.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\ResetUSerPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:38:59.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionBankForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\QuestionBankForm.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\QuestionBankForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\QuestionBankForm.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Lecture\\QuestionBankForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T21:09:55.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionBankForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\QuestionBankForm.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\QuestionBankForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\QuestionBankForm.cs",
+              "RelativeToolTip": "VP_PBE\\Lecture\\QuestionBankForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:59:17.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DownloadPastYearPaper.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\DownloadPastYearPaper.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\DownloadPastYearPaper.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\DownloadPastYearPaper.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Student\\DownloadPastYearPaper.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:29:09.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\StudentDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\StudentDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\StudentDashboard.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\StudentDashboard.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:12:21.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\StudentDashboard.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Student\\StudentDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:11:46.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckSupervisorAssignment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\CheckSupervisorAssignment.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\CheckSupervisorAssignment.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\CheckSupervisorAssignment.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Student\\CheckSupervisorAssignment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:24:23.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckSubmissionDeadline.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\CheckSubmissionDeadline.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\CheckSubmissionDeadline.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\CheckSubmissionDeadline.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Student\\CheckSubmissionDeadline.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:29:30.639Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckSubmissionDeadline.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\CheckSubmissionDeadline.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\CheckSubmissionDeadline.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\CheckSubmissionDeadline.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\CheckSubmissionDeadline.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAArwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:20:46.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LectureMaterials.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\LectureMaterials.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\LectureMaterials.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\LectureMaterials.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Student\\LectureMaterials.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:02:30.526Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\StudentDashboard.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\StudentDashboard.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAkwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:11:38.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LectureMaterials.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\LectureMaterials.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\LectureMaterials.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\LectureMaterials.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\LectureMaterials.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:02:37.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DownloadPastYearPaper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\DownloadPastYearPaper.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\DownloadPastYearPaper.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\DownloadPastYearPaper.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\DownloadPastYearPaper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:29:10.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CheckSubmissionDeadline.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\CheckSubmissionDeadline.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\CheckSubmissionDeadline.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\CheckSubmissionDeadline.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\CheckSubmissionDeadline.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:29:36.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FYPProjectApproval.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\FYPProjectApproval.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\FYPProjectApproval.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\FYPProjectApproval.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\FYPProjectApproval.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAA2wKgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:45:06.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AdminDashboard.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\AdminDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:31:55.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Admin\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:31:00.538Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SearchFypTitle.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\SearchFypTitle.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\SearchFypTitle.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\SearchFypTitle.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\SearchFypTitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:30:52.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SearchFypTitle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\SearchFypTitle.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\SearchFypTitle.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\SearchFypTitle.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Student\\SearchFypTitle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:29:03.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccessReport.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AccessReport.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\AccessReport.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AccessReport.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\AccessReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:55:19.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccessReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AccessReport.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\AccessReport.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AccessReport.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Admin\\AccessReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:55:24.796Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\StudentRepository.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\StudentRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:31:33.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentRepository.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\StudentRepository.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Student\\StudentRepository.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:31:46.469Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SystemLogsandAudit.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\SystemLogsandAudit.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\SystemLogsandAudit.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\SystemLogsandAudit.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\SystemLogsandAudit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:50:04.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SystemLogsandAudit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\SystemLogsandAudit.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\SystemLogsandAudit.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\SystemLogsandAudit.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Admin\\SystemLogsandAudit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:50:10.281Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ResetUSerPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ResetUSerPassword.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\ResetUSerPassword.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ResetUSerPassword.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Admin\\ResetUSerPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:39:04.944Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManageUsers.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ManageUsers.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\ManageUsers.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ManageUsers.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\ManageUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:31:45.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManageUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ManageUsers.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\ManageUsers.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ManageUsers.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Admin\\ManageUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:32:35.791Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExportData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ExportData.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\ExportData.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ExportData.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\ExportData.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswIUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:53:48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ExportData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ExportData.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\ExportData.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ExportData.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Admin\\ExportData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:53:54.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FYPProjectApproval.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\FYPProjectApproval.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\FYPProjectApproval.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\FYPProjectApproval.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Admin\\FYPProjectApproval.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:45:12.357Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategorizeResources.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\CategorizeResources.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\CategorizeResources.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\CategorizeResources.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\CategorizeResources.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAADgv2cAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:46:09.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategorizeResources.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\CategorizeResources.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\CategorizeResources.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\CategorizeResources.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Admin\\CategorizeResources.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:46:15.964Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AssignCredential.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AssignCredential.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\AssignCredential.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AssignCredential.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\AssignCredential.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:43:53.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AssignCredential.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AssignCredential.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\AssignCredential.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AssignCredential.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Admin\\AssignCredential.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:43:58.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FYPManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\FYPManagementForm.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\FYPManagementForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\FYPManagementForm.cs",
+              "RelativeToolTip": "VP_PBE\\Lecture\\FYPManagementForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:01:27.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FYPManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\FYPManagementForm.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\FYPManagementForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\FYPManagementForm.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Lecture\\FYPManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:01:35.767Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AccessReport.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AccessReport.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\AccessReport.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AccessReport.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\AccessReport.Designer.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAhwEABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:55:41.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GradingForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\GradingForm.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\GradingForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\GradingForm.cs",
+              "RelativeToolTip": "VP_PBE\\Lecture\\GradingForm.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAArwMQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:57:29.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GradingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\GradingForm.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\GradingForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\GradingForm.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Lecture\\GradingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:57:35.474Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SupervisionForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\SupervisionForm.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\SupervisionForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\SupervisionForm.cs",
+              "RelativeToolTip": "VP_PBE\\Lecture\\SupervisionForm.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAD4v2sAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:00:07.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SupervisionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\SupervisionForm.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\SupervisionForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\SupervisionForm.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Lecture\\SupervisionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:00:17.39Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ResourceManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\ResourceManagementForm.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\ResourceManagementForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\ResourceManagementForm.cs",
+              "RelativeToolTip": "VP_PBE\\Lecture\\ResourceManagementForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:58:18.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ResourceManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\ResourceManagementForm.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\ResourceManagementForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\ResourceManagementForm.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Lecture\\ResourceManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:58:23.989Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PastQuestionForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\PastQuestionForm.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\PastQuestionForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\PastQuestionForm.cs",
+              "RelativeToolTip": "VP_PBE\\Lecture\\PastQuestionForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:00:49.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LecturerDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\LecturerDashboard.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\LecturerDashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\LecturerDashboard.cs",
+              "RelativeToolTip": "VP_PBE\\Lecture\\LecturerDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:56:19.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PastQuestionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\PastQuestionForm.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\PastQuestionForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\PastQuestionForm.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Lecture\\PastQuestionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:01:05.247Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LecturerDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\LecturerDashboard.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\LecturerDashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\LecturerDashboard.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Lecture\\LecturerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:56:25.438Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CheckSupervisorAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\CheckSupervisorAssignment.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\CheckSupervisorAssignment.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\CheckSupervisorAssignment.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\CheckSupervisorAssignment.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAADgv3gAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:24:25.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FYPManagementForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\FYPManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\FYPManagementForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\FYPManagementForm.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Lecture\\FYPManagementForm.Designer.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAhwKcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:01:48.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Program.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Program.cs",
+              "RelativeToolTip": "VP_PBE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:16:09.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\Register.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\Register.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\Register.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:45:26.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\Register.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\Register.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\Register.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Student\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:30:36.445Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LectureMaterials.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\LectureMaterials.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\LectureMaterials.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\LectureMaterials.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\LectureMaterials.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwCUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:02:32.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SubmitProposal.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\SubmitProposal.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\SubmitProposal.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\SubmitProposal.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\SubmitProposal.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:31:58.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SubmitProposal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\SubmitProposal.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\SubmitProposal.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\SubmitProposal.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Student\\SubmitProposal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:31:56.505Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UploadProjectDocument.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\UploadProjectDocument.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\UploadProjectDocument.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\UploadProjectDocument.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\UploadProjectDocument.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwFUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:32:46.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UploadProjectDocument.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\UploadProjectDocument.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\UploadProjectDocument.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\UploadProjectDocument.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Student\\UploadProjectDocument.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:32:44.991Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\DatabaseConnection\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\DatabaseConnection\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\DatabaseConnection\\DatabaseConnection.cs",
+              "RelativeToolTip": "VP_PBE\\DatabaseConnection\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T12:43:44.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\Login.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\Login.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\Login.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAADwv4IAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:56:16.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\Register.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\Register.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\Register.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wNQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:30:29.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\Login.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\Login.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Student\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:34:06.505Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Register.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Register.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Register.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:07:51.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Services\\RegistrationService.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Services\\RegistrationService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Services\\RegistrationService.cs",
+              "RelativeToolTip": "VP_PBE\\Services\\RegistrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:46:15.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Register.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Register.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Register.cs",
+              "RelativeToolTip": "VP_PBE\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:07:38.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\Login.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\Login.Designer.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAvwGwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:13:44.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "VP_PBE\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAswH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:13:42.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Services\\SessionManager.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Services\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Services\\SessionManager.cs",
+              "RelativeToolTip": "VP_PBE\\Services\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:15:42.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UpdatePersonalInfo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\UpdatePersonalInfo.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\UpdatePersonalInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\UpdatePersonalInfo.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\UpdatePersonalInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:32:24.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ViewProjectStatus.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\ViewProjectStatus.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\ViewProjectStatus.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\ViewProjectStatus.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\ViewProjectStatus.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:33:12.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ViewProjectStatus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\ViewProjectStatus.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\ViewProjectStatus.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\ViewProjectStatus.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Student\\ViewProjectStatus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T12:23:34.16Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "SupervisionForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\SupervisionForm.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\SupervisionForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\SupervisionForm.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Lecture\\SupervisionForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:00:23.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ResourceManagementForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\ResourceManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\ResourceManagementForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\ResourceManagementForm.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Lecture\\ResourceManagementForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:58:49.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "QuestionBankForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\QuestionBankForm.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\QuestionBankForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\QuestionBankForm.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Lecture\\QuestionBankForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:59:49.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "PastQuestionForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\PastQuestionForm.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\PastQuestionForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\PastQuestionForm.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Lecture\\PastQuestionForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:00:59.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "LecturerDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\LecturerDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\LecturerDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\LecturerDashboard.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Lecture\\LecturerDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:56:42.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "GradingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\GradingForm.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\GradingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\GradingForm.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Lecture\\GradingForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:57:46.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\AdminDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:32:19.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AdminDashboard.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AdminDashboard.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\AdminDashboard.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AdminDashboard.resx",
+              "RelativeToolTip": "VP_PBE\\Admin\\AdminDashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T10:32:23.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "SystemLogsandAudit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\SystemLogsandAudit.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\SystemLogsandAudit.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\SystemLogsandAudit.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\SystemLogsandAudit.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:50:28.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ResetUSerPassword.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ResetUSerPassword.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\ResetUSerPassword.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ResetUSerPassword.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\ResetUSerPassword.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:39:32.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ManageUsers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ManageUsers.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\ManageUsers.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ManageUsers.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\ManageUsers.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:32:41.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "FYPProjectApproval.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\FYPProjectApproval.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\FYPProjectApproval.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\FYPProjectApproval.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\FYPProjectApproval.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:45:41.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ExportData.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ExportData.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\ExportData.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ExportData.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\ExportData.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:49:31.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "CategorizeResources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\CategorizeResources.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\CategorizeResources.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\CategorizeResources.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\CategorizeResources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:46:41.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "AssignCredential.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AssignCredential.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\AssignCredential.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AssignCredential.resx",
+              "RelativeToolTip": "VP_PBE\\Admin\\AssignCredential.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T10:44:33.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AssignCredential.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AssignCredential.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\AssignCredential.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\AssignCredential.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Admin\\AssignCredential.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:44:30.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ViewProjectStatus.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\ViewProjectStatus.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\ViewProjectStatus.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\ViewProjectStatus.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\ViewProjectStatus.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:33:19.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "UploadProjectDocument.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\UploadProjectDocument.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\UploadProjectDocument.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\UploadProjectDocument.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\UploadProjectDocument.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:32:56.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "UpdatePersonalInfo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\UpdatePersonalInfo.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\UpdatePersonalInfo.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\UpdatePersonalInfo.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\UpdatePersonalInfo.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:32:37.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "UpdatePersonalInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\UpdatePersonalInfo.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\UpdatePersonalInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\UpdatePersonalInfo.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\Student\\UpdatePersonalInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:32:19.85Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "SubmitProposal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\SubmitProposal.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\SubmitProposal.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\SubmitProposal.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\SubmitProposal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:32:06.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "StudentRepository.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\StudentRepository.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\StudentRepository.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\StudentRepository.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\StudentRepository.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:31:40.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "SearchFypTitle.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\SearchFypTitle.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\SearchFypTitle.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\SearchFypTitle.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\SearchFypTitle.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:31:01.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "SearchFypTitle.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\SearchFypTitle.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\SearchFypTitle.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\SearchFypTitle.resx",
+              "RelativeToolTip": "VP_PBE\\Student\\SearchFypTitle.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T11:31:06.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "DownloadPastYearPaper.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\DownloadPastYearPaper.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\DownloadPastYearPaper.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\DownloadPastYearPaper.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\DownloadPastYearPaper.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:29:25.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "CheckSupervisorAssignment.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\CheckSupervisorAssignment.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\CheckSupervisorAssignment.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\CheckSupervisorAssignment.resx",
+              "RelativeToolTip": "VP_PBE\\Student\\CheckSupervisorAssignment.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T11:26:27.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "CheckSupervisorAssignment.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\CheckSupervisorAssignment.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\CheckSupervisorAssignment.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\CheckSupervisorAssignment.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Student\\CheckSupervisorAssignment.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:24:44.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "VP_PBE\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:19:26.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "GradingForm.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\GradingForm.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\Lecture\\GradingForm.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Lecture\\GradingForm.resx",
+              "RelativeToolTip": "VP_PBE\\Lecture\\GradingForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T10:57:54.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ResetUSerPassword.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ResetUSerPassword.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\ResetUSerPassword.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ResetUSerPassword.resx",
+              "RelativeToolTip": "VP_PBE\\Admin\\ResetUSerPassword.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T10:39:33.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "ManageUsers.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ManageUsers.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\Admin\\ManageUsers.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Admin\\ManageUsers.resx",
+              "RelativeToolTip": "VP_PBE\\Admin\\ManageUsers.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T10:33:27.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "SubmitProposal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SubmitProposal.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\SubmitProposal.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SubmitProposal.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\SubmitProposal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:04:50.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "UploadProjectDocument.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UploadProjectDocument.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\UploadProjectDocument.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UploadProjectDocument.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\UploadProjectDocument.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:05:59.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "UploadProjectDocument.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UploadProjectDocument.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\UploadProjectDocument.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UploadProjectDocument.cs",
+              "RelativeToolTip": "VP_PBE\\UploadProjectDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:05:56.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "SearchFypTitle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SearchFypTitle.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\SearchFypTitle.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SearchFypTitle.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\SearchFypTitle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:05:30.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "CheckSubmissionDeadline.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSubmissionDeadline.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\CheckSubmissionDeadline.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSubmissionDeadline.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\CheckSubmissionDeadline.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T08:39:11.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "ViewProjectStatus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\ViewProjectStatus.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\ViewProjectStatus.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\ViewProjectStatus.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\ViewProjectStatus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T08:41:43.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "CheckSupervisorAssignment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSupervisorAssignment.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\CheckSupervisorAssignment.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSupervisorAssignment.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\CheckSupervisorAssignment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:04:03.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "UpdatePersonalInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UpdatePersonalInfo.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\UpdatePersonalInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UpdatePersonalInfo.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\UpdatePersonalInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:00:30.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "DownloadPastYearPaper.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\DownloadPastYearPaper.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\DownloadPastYearPaper.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\DownloadPastYearPaper.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\DownloadPastYearPaper.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:03:23.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "StudentRepository.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentRepository.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\StudentRepository.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:02:05.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "StudentDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentDashboard.cs [Design]",
+              "RelativeToolTip": "VP_PBE\\StudentDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:08:19.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:55:54.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "StudentDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\StudentDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentDashboard.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\StudentDashboard.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:08:13.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentRepository.cs",
+              "RelativeToolTip": "VP_PBE\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:01:49.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "StudentDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentDashboard.cs",
+              "RelativeToolTip": "VP_PBE\\StudentDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:08:08.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Login.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\Login.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:07:02.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Login.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Login.cs",
+              "RelativeToolTip": "VP_PBE\\Login.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:06:55.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "UploadProjectDocument.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UploadProjectDocument.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\UploadProjectDocument.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UploadProjectDocument.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\UploadProjectDocument.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:06:03.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "SearchFypTitle.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SearchFypTitle.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\SearchFypTitle.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SearchFypTitle.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\SearchFypTitle.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:05:25.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "SearchFypTitle.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SearchFypTitle.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\SearchFypTitle.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SearchFypTitle.cs",
+              "RelativeToolTip": "VP_PBE\\SearchFypTitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:05:19.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "SubmitProposal.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SubmitProposal.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\SubmitProposal.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SubmitProposal.resx",
+              "RelativeToolTip": "VP_PBE\\SubmitProposal.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T09:04:41.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "SubmitProposal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SubmitProposal.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\SubmitProposal.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SubmitProposal.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\SubmitProposal.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:04:37.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "SubmitProposal.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SubmitProposal.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\SubmitProposal.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\SubmitProposal.cs",
+              "RelativeToolTip": "VP_PBE\\SubmitProposal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:04:30.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "CheckSupervisorAssignment.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSupervisorAssignment.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\CheckSupervisorAssignment.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSupervisorAssignment.resx",
+              "RelativeToolTip": "VP_PBE\\CheckSupervisorAssignment.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T09:03:59.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "CheckSupervisorAssignment.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSupervisorAssignment.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\CheckSupervisorAssignment.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSupervisorAssignment.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\CheckSupervisorAssignment.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:03:55.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "CheckSupervisorAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSupervisorAssignment.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\CheckSupervisorAssignment.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSupervisorAssignment.cs",
+              "RelativeToolTip": "VP_PBE\\CheckSupervisorAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:03:50.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "DownloadPastYearPaper.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\DownloadPastYearPaper.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\DownloadPastYearPaper.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\DownloadPastYearPaper.resx",
+              "RelativeToolTip": "VP_PBE\\DownloadPastYearPaper.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T09:03:19.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "DownloadPastYearPaper.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\DownloadPastYearPaper.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\DownloadPastYearPaper.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\DownloadPastYearPaper.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\DownloadPastYearPaper.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:03:16.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "DownloadPastYearPaper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\DownloadPastYearPaper.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\DownloadPastYearPaper.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\DownloadPastYearPaper.cs",
+              "RelativeToolTip": "VP_PBE\\DownloadPastYearPaper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:03:08.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "LectureMaterials.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\LectureMaterials.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\Student\\LectureMaterials.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Student\\LectureMaterials.resx",
+              "RelativeToolTip": "VP_PBE\\Student\\LectureMaterials.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T09:02:43.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "StudentRepository.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentRepository.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\StudentRepository.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentRepository.resx",
+              "RelativeToolTip": "VP_PBE\\StudentRepository.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T09:02:00.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "StudentRepository.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentRepository.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\StudentRepository.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\StudentRepository.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\StudentRepository.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:01:57.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "UpdatePersonalInfo.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UpdatePersonalInfo.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\UpdatePersonalInfo.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UpdatePersonalInfo.resx",
+              "RelativeToolTip": "VP_PBE\\UpdatePersonalInfo.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T09:00:20.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "UpdatePersonalInfo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UpdatePersonalInfo.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\UpdatePersonalInfo.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UpdatePersonalInfo.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\UpdatePersonalInfo.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:00:01.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "UpdatePersonalInfo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UpdatePersonalInfo.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\UpdatePersonalInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\UpdatePersonalInfo.cs",
+              "RelativeToolTip": "VP_PBE\\UpdatePersonalInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T08:59:54.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "CheckSubmissionDeadline.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSubmissionDeadline.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\CheckSubmissionDeadline.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSubmissionDeadline.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\CheckSubmissionDeadline.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T08:39:24.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "ViewProjectStatus.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\ViewProjectStatus.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\ViewProjectStatus.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\ViewProjectStatus.cs",
+              "RelativeToolTip": "VP_PBE\\ViewProjectStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T08:41:27.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "ViewProjectStatus.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\ViewProjectStatus.Designer.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\ViewProjectStatus.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\ViewProjectStatus.Designer.cs",
+              "RelativeToolTip": "VP_PBE\\ViewProjectStatus.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T08:41:35.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "CheckSubmissionDeadline.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSubmissionDeadline.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\CheckSubmissionDeadline.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSubmissionDeadline.resx",
+              "RelativeToolTip": "VP_PBE\\CheckSubmissionDeadline.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T08:39:28.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "CheckSubmissionDeadline.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSubmissionDeadline.cs",
+              "RelativeDocumentMoniker": "VP_PBE\\CheckSubmissionDeadline.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\CheckSubmissionDeadline.cs",
+              "RelativeToolTip": "VP_PBE\\CheckSubmissionDeadline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T08:38:59.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "ViewProjectStatus.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\ViewProjectStatus.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\ViewProjectStatus.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\ViewProjectStatus.resx",
+              "RelativeToolTip": "VP_PBE\\ViewProjectStatus.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T08:41:39.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "VP_PBE\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\VP_PBE\\VP_PBE\\Properties\\Resources.resx",
+              "RelativeToolTip": "VP_PBE\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-08T08:55:31.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6dda4e14-2971-4627-99f4-63477a7f95c0}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
